@@ -1,0 +1,5 @@
+classes = 3
+train = new400/train.txt
+valid = new400/test.txt
+names = new400/obj.names
+backup = backup_new400/

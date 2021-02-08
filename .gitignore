@@ -56,3 +56,12 @@ uselib
 uselib_track
 darknet
 vcpkg/
+
+
+formula/
+marmot/
+new400/
+bad_label.list
+bad.list
+predictions.jpg
+yolov4.conv.137

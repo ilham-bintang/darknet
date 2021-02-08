@@ -1,0 +1,1 @@
+./darknet detector test obj.data yolov4-obj.cfg backup_new400/yolov4-obj_last.weights data/2.jpg
